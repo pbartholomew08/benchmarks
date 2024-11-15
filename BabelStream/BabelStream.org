@@ -2,6 +2,8 @@
 
 * EPCC Grace-Hopper nodes
 
+Using commit =2f00dfb7f8b7cfe8c53d20d5c770bccbf8673440=.
+
 ** Machine configuration
 
 Up to 4 TB/s (HBM3) or 4.9 TB/s (HBM3e) per [[https://resources.nvidia.com/en-us-grace-cpu/grace-hopper-superchip][NVIDIA specs]].
